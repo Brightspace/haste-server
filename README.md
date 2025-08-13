@@ -1,12 +1,8 @@
-# Important announcement:
+# Important!
 
-## [Soon a new version of Hastebin will be launched!](https://github.com/toptal/haste-server/issues/429)
-
-[Check here what you need to know.](https://github.com/toptal/haste-server/issues/429)
-
-.    
-.    
-.    
+This is a fork of seejohnrun/haste-server.
+We run this software internally at D2L, but the original repo was transfered to another company and then taken down.
+We are maintaining this for ourselves at this time, but if we get issues opened on the repo we could re-evaluate our level of commitment.
 
 # Haste
 
