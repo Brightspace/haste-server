@@ -23,7 +23,7 @@
     "redis-url": "1.2.1",
     "st": "^3.0.2",
     "uglify-js": "3.19.3",
-    "winston": "^3.17.0"
+    "winston": "^3.18.3"
   },
   "devDependencies": {
     "mocha": "^11.7.1"
