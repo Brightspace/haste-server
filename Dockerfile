@@ -1,4 +1,4 @@
-FROM node:16-stretch
+FROM node:24-bookworm-slim
 
 RUN mkdir -p /usr/src/app && \
     chown node:node /usr/src/app
