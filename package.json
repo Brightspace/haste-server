@@ -26,7 +26,7 @@
     "winston": "^3.18.3"
   },
   "devDependencies": {
-    "mocha": "^11.7.1"
+    "mocha": "^11.7.6"
   },
   "bundledDependencies": [],
   "bin": {
