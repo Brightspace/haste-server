@@ -18,7 +18,7 @@
     "connect": "^3.7.0",
     "connect-ratelimit": "0.0.7",
     "connect-route": "0.1.5",
-    "pg": "^8.16.3",
+    "pg": "^8.21.0",
     "redis": "5.9.0",
     "redis-url": "1.2.1",
     "st": "^3.0.3",
