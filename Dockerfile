@@ -1,5 +1,8 @@
 FROM node:24-bookworm-slim
 
+# Lets public CI builds override the registry set in .npmrc
+ARG npm_config_registry
+
 RUN mkdir -p /usr/src/app && \
     chown node:node /usr/src/app
 

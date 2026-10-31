@@ -282,6 +282,14 @@ your bucket:
 
 ## Docker
 
+### Pull image
+
+Images for amd64 and arm64 are published from `main` and version tags:
+
+```bash
+docker pull ghcr.io/brightspace/haste-server:latest
+```
+
 ### Build image
 
 ```bash
